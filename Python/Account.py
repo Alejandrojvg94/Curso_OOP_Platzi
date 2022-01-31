@@ -1,6 +1,6 @@
 class Account:
     id = int
     name = str
-    document = str
+    document = int
     email = str
     password = str
