@@ -15,6 +15,7 @@ class UberBlack extends Car {
         this.brand = brand;
         this.model = model;
         this.typeCarAccepted = typeCarAccepted;
+        this.seatsMaterial = seatsMaterial;
 
     }
 }
